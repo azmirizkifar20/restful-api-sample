@@ -1,0 +1,14 @@
+{
+    "name": "restful-api-sample",
+    "version": "1.0.0",
+    "description": "Simple RESTful API using Node JS + Express without database",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "AzmiRF20",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
